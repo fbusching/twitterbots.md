@@ -1,6 +1,4 @@
-
-##Twitter bots with no code
-
+#Twitter bots with no code
 This is a tutorial for students who might need to use a twitter bot for classes that might need it. It could also be used for people who think it would be an interesting project to try.
 
 
@@ -14,3 +12,13 @@ This is a tutorial for students who might need to use a twitter bot for classes 
 
 
 ## Basics of a bot.
+the first thing you have to do is make  a twitter acount for your bot to have. be sure to verify both a phone number and email.
+
+After you have an acount, you can make an app with twitter. you can go here, to apps.twitter.com <https://twitter.com/login?redirect_after_login=https%3A%2F%2Fdeveloper.twitter.com%2Fapps>, to build an application for your bot. Click the create new app button and it will pull up a new menu.
+
+Give it the same name as your acount and a short description. give the app a name. leave the callback url section empty. it wiil be he last step while making the app.
+
+## Completing the app setup
+your app will have 3 tabs at the top of its menu. Detail, keys/access tokens, and permissions. go to the keys/access tokens tab and click the create my access token
+
+
