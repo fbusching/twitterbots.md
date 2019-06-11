@@ -23,3 +23,5 @@ your app will have 3 tabs at the top of its menu. Detail, keys/access tokens, an
 
 ## putting the bot to work
 the next step wold be to go to labnol.org/bots:<https://script.google.com/macros/s/AKfycbwWSRgdQ7ji6TH1njlimjZiM81M7MdHA34BliELlrANouhfIBXz/exec>
+go the choose what  to the page you have your 4 codes and copy them into their appropriate space. 
+select a search on twitter, decide the amount of time your bot will run for,and choose what you want your bot to do under "actions". then choose what your bot will say. hit save and it will run.
