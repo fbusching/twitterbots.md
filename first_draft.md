@@ -14,7 +14,9 @@ This is a tutorial for students who might need to use a twitter bot for classes 
 ## Basics of a bot.
 the first thing you have to do is make  a twitter acount for your bot to have. be sure to verify both a phone number and email.
 
-After you have an acount, you can make an app with twitter. you can go here, to apps.twitter.com <https://twitter.com/login?redirect_after_login=https%3A%2F%2Fdeveloper.twitter.com%2Fapps>, to build an application for your bot. Click the create new app button and it will pull up a new menu.
+After you have an acount, you can make an app with twitter. you can go here, to apps.twitter.com 
+<https://twitter.com/login?redirect_after_login=https%3A%2F%2Fdeveloper.twitter.com%2Fapps>, 
+to build an application for your bot. Click the create new app button and it will pull up a new menu.
 
 Give it the same name as your acount and a short description. give the app a name.
 
@@ -30,6 +32,7 @@ your app will have 3 tabs at the top of its menu. Detail, keys/access tokens, an
 (make sure it will be easy for you to find that page for later.)
 
 ## putting the bot to work
-the next step wold be to go to labnol.org/bots:<https://script.google.com/macros/s/AKfycbwWSRgdQ7ji6TH1njlimjZiM81M7MdHA34BliELlrANouhfIBXz/exec>
+the next step wold be to go to labnol.org/bots:
+<https://script.google.com/macros/s/AKfycbwWSRgdQ7ji6TH1njlimjZiM81M7MdHA34BliELlrANouhfIBXz/exec>
 go the choose what  to the page you have your 4 codes and copy them into their appropriate space. 
 select a search on twitter, decide the amount of time your bot will run for,and choose what you want your bot to do under "actions". then choose what your bot will say. hit save and it will run.
