@@ -19,7 +19,15 @@ After you have an acount, you can make an app with twitter. you can go here, to 
 Give it the same name as your acount and a short description. give the app a name.
 
 ## Completing the app setup
-your app will have 3 tabs at the top of its menu. Detail, keys/access tokens, and permissions. go to the keys/access tokens tab and click the "create my access token". this will give you 4 random codes called the consumer key, access token, consumer secret, and the access token. make sure it will be easy for you to find that page for later.
+your app will have 3 tabs at the top of its menu. Detail, keys/access tokens, and permissions. go to the keys/access tokens tab and click the "create my access token". this will give you 4 random codes  
+*consumer key 
+
+*access token
+
+*consumer secret 
+
+*access token. 
+(make sure it will be easy for you to find that page for later.)
 
 ## putting the bot to work
 the next step wold be to go to labnol.org/bots:<https://script.google.com/macros/s/AKfycbwWSRgdQ7ji6TH1njlimjZiM81M7MdHA34BliELlrANouhfIBXz/exec>
