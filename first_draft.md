@@ -7,7 +7,7 @@ This is a tutorial for students who might need to use a twitter bot for classes 
 
 **Etiquette** of course, before you make a twitterbot, you must follow the twitter guidlines and rules. otherwise your bot will get kicked and you will spend more time making new bots than seeing them work. hre is a link to a list of things your bot cant do.
 
-<http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/>
+[etiquette](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/)
 
 
 
@@ -16,7 +16,7 @@ the first thing you have to do is make  a twitter acount for your bot to have. b
 
 After you have an acount, you can make an app with twitter. you can go here, to apps.twitter.com 
 
-<https://twitter.com/login?redirect_after_login=https%3A%2F%2Fdeveloper.twitter.com%2Fapps>, 
+[apps.twitter.com](https://twitter.com/login?redirect_after_login=https%3A%2F%2Fdeveloper.twitter.com%2Fapps), 
 
 to build an application for your bot. Click the create new app button and it will pull up a new menu.
 
@@ -36,7 +36,7 @@ your app will have 3 tabs at the top of its menu. Detail, keys/access tokens, an
 ## putting the bot to work
 the next step would be to go to labnol.org/bots:
 
-<https://script.google.com/macros/s/AKfycbwWSRgdQ7ji6TH1njlimjZiM81M7MdHA34BliELlrANouhfIBXz/exec>
+[labnol.org/bots](https://script.google.com/macros/s/AKfycbwWSRgdQ7ji6TH1njlimjZiM81M7MdHA34BliELlrANouhfIBXz/exec)
 
 go the choose what  to the page you have your 4 codes and copy them into their appropriate space. 
 select a search on twitter, decide the amount of time your bot will run for,and choose what you want your bot to do under "actions". then choose what your bot will say. hit save and it will run.
