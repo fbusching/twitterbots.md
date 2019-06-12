@@ -34,7 +34,7 @@ your app will have 3 tabs at the top of its menu. Detail, keys/access tokens, an
 (make sure it will be easy for you to find that page for later.)
 
 ## putting the bot to work
-the next step wold be to go to labnol.org/bots:
+the next step would be to go to labnol.org/bots:
 
 <https://script.google.com/macros/s/AKfycbwWSRgdQ7ji6TH1njlimjZiM81M7MdHA34BliELlrANouhfIBXz/exec>
 
