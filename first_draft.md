@@ -7,7 +7,7 @@ This is a tutorial for students who might need to use a twitter bot for classes 
 
 **Etiquette** of course, before you make a twitterbot, you must follow the twitter guidlines and rules. otherwise your bot will get kicked and you will spend more time making new bots than seeing them work. hre is a link to a list of things your bot cant do.
 
-[etiquette](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/)
+[bot etiquette](http://tinysubversions.com/2013/03/basic-twitter-bot-etiquette/)
 
 
 
