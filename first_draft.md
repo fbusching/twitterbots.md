@@ -44,3 +44,4 @@ One thing to remember, you can change what your first bot does, but once you wan
 ## Example
 I currently have a bot running on twitter called @trvestuff and it retweets tweets with the key words "climate change is real" from 10:30 am -1:00 pm.
 Building a bot this way takes about 10 to 20 minutes so it is not difficult to do just to test it out. I encourage you to try it.
+
